@@ -84,7 +84,7 @@ const Nav = () => {
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Kapı Metal Demiri Düz</Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Kılıç Mandal Plastiği </Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Kramer Ayağı</Link></li>
-                                    <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Kramer Kapı ?????? </Link></li>
+                                    <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Kramer Kapı 51100 Rulman </Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Panel Askı Seti Uzun</Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Plastik Rampa</Link></li>
                                     <li><Link to={process.env.PUBLIC_URL + `/architecture-design`}>Plastik Tampon</Link></li>

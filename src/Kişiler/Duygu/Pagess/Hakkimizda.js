@@ -11,10 +11,6 @@ const Hakkimizda = () => {
     return (
         <>
             <HeaderThree />
-            <Breadcrumb
-                heading=""
-                currentPage="Tüm Talep ve Şikayetleriniz için 7/24 Hizmetinizdeyiz." 
-            />
             <ContactMap />
             <ContactForm />
             <BrandOne />
