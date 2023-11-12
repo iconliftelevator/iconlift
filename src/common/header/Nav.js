@@ -72,7 +72,7 @@ const Nav = () => {
                         </ul>
                     </li>
                     <li className="dropdown">
-                        <Link to={process.env.PUBLIC_URL + `/ürünler`}>Yedek/Bağlantı Parçaları</Link>
+                        <Link to={process.env.PUBLIC_URL + `/ürünler`}>Yedek Parça</Link>
                         <ul>
                             
                             <li className="dropdown">
